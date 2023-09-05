@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2><code>/home/masafron</code></h2>
 
-<!--
-**masafron/masafron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+    <li style="margin-bottom: 10px;">🔍 Specializing in complex queries and database optimization to ensure speed and reliability.</li>
+    <li style="margin-bottom: 10px;">💡 Passionate about the latest trends in AI, exploring its applications for data analysis.</li>
+</ul>
 
-Here are some ideas to get you started:
+<div name="wakatime">
+    <h3>📊&nbsp;This week I spent my time on</h3>
+    <a href="https://wakatime.com/@masafron" target="_blank" rel="noopener">
+        <img alt="WakaTime Stats"
+             src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=masafron&hide_title=true&hide_border=true&langs_count=5&theme=transparent">
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <code>Feel free to ⭐ and 🍴 this repo.</code>
+</div>
